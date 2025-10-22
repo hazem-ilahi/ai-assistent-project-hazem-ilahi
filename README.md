@@ -11,7 +11,19 @@ https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi/-/wikis/home
 
 Tells students what's on the cafeteria menu or opening times.
 
+# Installation
 
+## Prerequisites
+
+Python 3.
+
+Streamlit
+
+##
+
+pip install -r requirements.txt
+
+#Basic usageStart the Streamlit
 
 
 
