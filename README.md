@@ -1,6 +1,6 @@
 Hazem, Ilahi, 22410953
 
-Mensa Menu assistant
+Campus Info assistant
 
 https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi
 
@@ -9,7 +9,7 @@ https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi/-/wikis/home
 
 # project-description-hazemilahi
 
-Tells students what's on the cafeteria menu or opening times.
+Answer basic questions about campus life (Mensa, Library, WLAN ...)
 
 # Installation
 
