@@ -9,7 +9,11 @@ https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi/-/wikis/home
 
 # project-description-hazemilahi
 
-Answer basic questions about campus life (Mensa, Library...)
+The "Campus-Info-Assistent" gives basic Information about the university and helps students, 
+especially new ones. It gives Information about:
+
+Cantine (list of meals, opening hours...)
+Library (Opening Hours, paying methods for buying a book)
 
 # Installation
 
