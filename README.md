@@ -9,13 +9,13 @@ https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi/-/wikis/home
 
 # project-description-hazemilahi
 
-Answer basic questions about campus life (Mensa, Library, WLAN ...)
+Answer basic questions about campus life (Mensa, Library...)
 
 # Installation
 
 ## Prerequisites
 
-Python 3.
+Python 3.12
 
 Streamlit
 
