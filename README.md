@@ -6,6 +6,9 @@ https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi
 
 https://mygit.th-deg.de/hi15953/ai-assistant-project-hazemilahi/-/wikis/home
 
+C:\Users\tlili\Info-Campus-Assistent.py
+
+
 
 # project-description-hazemilahi
 
